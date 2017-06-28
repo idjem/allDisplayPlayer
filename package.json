@@ -1,0 +1,29 @@
+{
+  "name": "all-display-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idjem/allDisplayPlayer.git"
+  },
+  "dependencies": {
+    "eventemitter-co": "^1.0.4",
+    "mout": "^1.0.0",
+    "nyks": "^3.19.1",
+    "vlc-remote": "^1.13.2",
+    "winapi": "^2.5.0"
+  },
+  "optionalDependencies": {
+    "vlc-player": "^1.0.0"
+  },
+  "author": "mejdiourir@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idjem/allDisplayPlayer/issues"
+  },
+  "homepage": "https://github.com/idjem/allDisplayPlayer#readme"
+}
